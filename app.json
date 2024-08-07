@@ -1,32 +1,32 @@
 {
     "name": "Queen_Anita-V2",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "logo": "https://telegra.ph/file/b0e8a42dd4946b456c992.jpg",
+    "keywords": ["Xavage_Play™", "Xavage Play", "X A V A G E", "Xavage_Play"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Xavage_Play™",
         "required": true
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://telegra.ph/file/e01a374e09e528b5df9f8.jpg",
         "required": false
       },
   
       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "MENU": {
@@ -35,12 +35,12 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://telegra.ph/file/b0e8a42dd4946b456c992.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Xavage Play"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -55,7 +55,7 @@
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
         "required": false,
-        "value": "3"
+        "value": "2"
       },
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
@@ -75,7 +75,7 @@
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": "available"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
@@ -103,24 +103,24 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "2347043352532"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0s4eFM1SGNab1JvY1RjZXpJMGo4N1ZENy9mK2ZuRmxXMnFJWU5USzMwRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSlR1NGNOamdwbS9RdXVNZTNnY2p0QjlJRU1IWHNwZXBQSUJ6azFHVlkxTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2SDlxK1VsTktVZ2ErQnFzemQ3eTlsK2lqRWN4MVdWUFdjNFZoV3ZOQlhjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtQ2x5bzVyeFJ2dVVvOGI0RkIxL1k2dVlNZjkxT1VBV3lXRVhGajBiaFc0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRPcU0vcDdMMCtVM2dnWW1SUHJWNUVobTRwVzJROGJBVkNvSVVRVFNPRVU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImNTYm43QVVpazdpMnFlMTRVMDI3a01JeEkrSzBUTEY1b2FNVVFHdlV3eHc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZU1qV2VjbmFRVWg4TDIyYnlKMy85TUdGNktCeG9ja283OEduY04vNHVsRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT3BRK1o2elZYMUpON2crL3FPWWJOK3lEZFJib2VzT2w3djA5blhrcW1BQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJFRzZ4WkFZY3hBek40U1EvZlZ0b2JnQjJUNFNMOXJ3Nkk3bnNkU2hORFdGbC9VZUdDUEE0OC9YK1hqZnU3dVRPc3VidjZJN1IrN2dEa0VqcFZrRURRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjIyLCJhZHZTZWNyZXRLZXkiOiI2NTZnTzlCQlhJVjlnQ0tySlMzVmlPTXd0RGhpVXFiOEwxTEVFSVdpMlFzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ2bW5IM2F1TlRYQzV2eWVoY2lDZ0hnIiwicGhvbmVJZCI6ImMzNTMwNzllLTE1OTQtNDlhYi1iYTc5LTdjYTc3OGMzNTIzNiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVTEZwL2dvbUovbStKTFNGWGs4c1BnN0xHSGM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUTBTWUR2N1g4V2FHS0dhaDEyS1NQa2Z5SE53PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlpLUVNUQTc4IiwibWUiOnsiaWQiOiIyMzQ3MDQzMzUyNTMyOjMwQHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPTDdyTVVCRU5LZnpiVUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJMTDd0OWMwK0RTenRUdjIzZVNYajhMTDVGQ1BnUlR1MFZWV1k5dElzTVd3PSIsImFjY291bnRTaWduYXR1cmUiOiJ6T0JwTjFmV3RtUzlubHh0dm9RUjZubUNrREt2b2tmQXpCbTljVFBLUnNubXkwSGY1dFNrNFc4dStjeGdXOURrMWh5SHlwakluOFp3YTV0bFZOM0ZDUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiUi9tNWRwNDVMcmdzU3phbFk5aUUwUWdtMWtRL3g1Q0MxcythTmdjOW1LRnJoOVRIaStTNFZLVnp4cHE2RjB4VXdubkJ6eXpCN2p4Tmg4VkRLNXRUQ2c9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ3MDQzMzUyNTMyOjMwQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlN5KzdmWE5QZzBzN1U3OXQza2w0L0N5K1JRajRFVTd0RlZWbVBiU0xERnMifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjMwMjc0MjN9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
+        "value": "private"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
+        "value": "Xavage_Play",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "X A V A G E",
         "required": false
       }  
   },
